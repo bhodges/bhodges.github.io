@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-04-04T14:25:39-07:00</updated><id>/feed.xml</id><title type="html">Cycling Power Data for Brian Hodges</title><subtitle>Comparable power data recorded from multiple power meters during virtual races.</subtitle><entry><title type="html">KISS Community League - 04.04.2019</title><link href="/zwift_races/2019/04/04/00-kiss-community-league.html" rel="alternate" type="text/html" title="KISS Community League - 04.04.2019" /><published>2019-04-04T00:00:00-07:00</published><updated>2019-04-04T00:00:00-07:00</updated><id>/zwift_races/2019/04/04/00-kiss-community-league</id><content type="html" xml:base="/zwift_races/2019/04/04/00-kiss-community-league.html">&lt;h3 id=&quot;max-average-power-comparisons&quot;&gt;Max Average Power Comparisons&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-14T15:25:27-07:00</updated><id>/feed.xml</id><title type="html">Cycling Power Data for Brian Hodges</title><subtitle>Comparable power data recorded from multiple power meters during virtual races.</subtitle><entry><title type="html">TFC Spring Race Series 2 - 14.06.2019</title><link href="/zwift_races/2019/06/14/00-TFC-Spring_Race-Series-2.html" rel="alternate" type="text/html" title="TFC Spring Race Series 2 - 14.06.2019" /><published>2019-06-14T00:00:00-07:00</published><updated>2019-06-14T00:00:00-07:00</updated><id>/zwift_races/2019/06/14/00-TFC-Spring_Race-Series-2</id><content type="html" xml:base="/zwift_races/2019/06/14/00-TFC-Spring_Race-Series-2.html">&lt;h3 id=&quot;max-average-power-comparisons&quot;&gt;Max Average Power Comparisons&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Drivo II (Zwift)&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Assioma Duo (Comparison)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Peak&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1141&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1155&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;15s&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;868&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;913&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;1m&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;496&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;499&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;5m&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;361&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;357&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;20m&lt;/strong&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;323&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;319&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;/assets/activities/2019-06-14-00_drivo_ii.fit&quot;&gt;drivo ii .fit&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;/assets/activities/2019-06-14-00_duo.fit&quot;&gt;duo .fit&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.zwiftpower.com/events.php?zid=196210&quot;&gt;zwiftpower event link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Max Average Power Comparisons</summary></entry><entry><title type="html">KISS Community League - 04.04.2019</title><link href="/zwift_races/2019/04/04/00-kiss-community-league.html" rel="alternate" type="text/html" title="KISS Community League - 04.04.2019" /><published>2019-04-04T00:00:00-07:00</published><updated>2019-04-04T00:00:00-07:00</updated><id>/zwift_races/2019/04/04/00-kiss-community-league</id><content type="html" xml:base="/zwift_races/2019/04/04/00-kiss-community-league.html">&lt;h3 id=&quot;max-average-power-comparisons&quot;&gt;Max Average Power Comparisons&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -394,48 +438,4 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.zwiftpower.com/events.php?zid=154554&quot;&gt;zwiftpower event link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Max Average Power Comparisons</summary></entry><entry><title type="html">SZR Winter Race Series - 13.02.2019</title><link href="/zwift_races/2019/02/13/szr-winter-race-series.html" rel="alternate" type="text/html" title="SZR Winter Race Series - 13.02.2019" /><published>2019-02-13T00:00:00-08:00</published><updated>2019-02-13T00:00:00-08:00</updated><id>/zwift_races/2019/02/13/szr-winter-race-series</id><content type="html" xml:base="/zwift_races/2019/02/13/szr-winter-race-series.html">&lt;h3 id=&quot;max-average-power-comparisons&quot;&gt;Max Average Power Comparisons&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Drivo II (Zwift)&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Assioma Duo (Comparison)&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Peak&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1142&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1139&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;15s&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1030&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1028&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;1m&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;666&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;667&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;5m&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;392&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;393&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;20m&lt;/strong&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;296&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;299&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;/assets/activities/2019-02-13-00_drivo_ii.fit&quot;&gt;drivo ii .fit&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;/assets/activities/2019-02-13-00_duo.fit&quot;&gt;duo .fit&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.zwiftpower.com/events.php?zid=150752&quot;&gt;zwiftpower event link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Max Average Power Comparisons</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://www.zwiftpower.com/events.php?zid=154554&quot;&gt;zwiftpower event link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Max Average Power Comparisons</summary></entry></feed>
